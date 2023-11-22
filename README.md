@@ -24,11 +24,17 @@ A continuación, se detalla el paso a paso para configurar el repositorio, agreg
 ## Paso 3: Crear Ramas
 
 1. Localmente, abre una terminal, antes de comenzar con la creacion de las ramas debemos clonar el repositorio creado en nuestro github y accedemos a la carpeta donde se encuentra ubicado.
-2. Utilizaremos el comando "git branch" para visualizar nuestra lista de ramas establecidas (como te podras fijar, main estara creada por default.
-3. Ejecuta el siguiente comando para crear las demas ramas:
+
+![Clonar en la terminal](https://github.com/Krey22/proweb_kelvinreyes/blob/main/%234.png)
+   
+3. Utilizaremos el comando "git branch" para visualizar nuestra lista de ramas establecidas (como te podras fijar, main estara creada por default).
+4. Ejecuta el siguiente comando para crear las demas ramas:
+   (Debes sustituir la palabra "nombre" con el que desees para tu rama).
+
+![Visualizar y crear ramas](https://github.com/Krey22/proweb_kelvinreyes/blob/main/%235.png)
 
 git branch nombre_branch
-Debes sustituir la palabra "nombre" con el que desees para tu rama.
+
 
 ```bash
 git checkout -b main
