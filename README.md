@@ -15,15 +15,20 @@ A continuación, se detalla el paso a paso para configurar el repositorio, agreg
 
 ## Paso 2: Agregar Colaborador
 
-1. En la página del repositorio, haz clic en "Settings" y luego en "Manage access".
-2. Invita a wilfredvasquez como colaborador.
+1. En la página del repositorio, haz clic en "Settings" y luego en "Collaborators".
+2. Seguidamente podràs visualizar la opciòn "Add people".
+3. Escribe el nombre e invita al colaborador.
 
 ![Agregar Colaborador](https://github.com/Krey22/proweb_kelvinreyes/blob/main/%233.png)
 
 ## Paso 3: Crear Ramas
 
-1. Localmente, abre una terminal y navega al directorio del proyecto.
-2. Ejecuta los siguientes comandos para crear las ramas:
+1. Localmente, abre una terminal, antes de comenzar con la creacion de las ramas debemos clonar el repositorio creado en nuestro github y accedemos a la carpeta donde se encuentra ubicado.
+2. Utilizaremos el comando "git branch" para visualizar nuestra lista de ramas establecidas (como te podras fijar, main estara creada por default.
+3. Ejecuta el siguiente comando para crear las demas ramas:
+
+git branch nombre_branch
+Debes sustituir la palabra "nombre" con el que desees para tu rama.
 
 ```bash
 git checkout -b main
