@@ -1,5 +1,5 @@
 # proweb_kelvinreyes
-# Evaluacion 1 - Repositorio GitHub
+# Evaluación 1 - Repositorio GitHub
 
 A continuación, se detalla el paso a paso para crear el repositorio, agregar colaboradores y crear ramas.
 
@@ -16,14 +16,14 @@ A continuación, se detalla el paso a paso para crear el repositorio, agregar co
 ## Paso 2: Agregar Colaborador
 
 1. En la página del repositorio, haz clic en "Settings" y luego en "Collaborators".
-2. Seguidamente podràs visualizar la opciòn "Add people".
+2. Seguidamente podrás visualizar la opción "Add people".
 3. Escribe el nombre e invita al colaborador.
 
 ![Agregar Colaborador](https://github.com/Krey22/proweb_kelvinreyes/blob/main/%233.png)
 
 ## Paso 3: Crear Ramas
 
-1. Localmente, abre una terminal, antes de comenzar con la creacion de las ramas debemos clonar el repositorio creado en nuestro github y accedemos a la carpeta donde se encuentra ubicado.
+1. Localmente, abre una terminal, antes de comenzar con la creación de las ramas debemos clonar el repositorio creado en nuestro github y accedemos a la carpeta donde se encuentra ubicado.
 
 ![Clonar en la terminal](https://github.com/Krey22/proweb_kelvinreyes/blob/main/%234.png)
    
