@@ -47,3 +47,6 @@ git checkout -b develop
 git push origin develop
 
 ![Empujar ramas](https://github.com/Krey22/proweb_kelvinreyes/blob/main/%236.png)
+
+
+##Finalmente, hemos creado nuestro repositorio de manera exitosa, junto a sus ramas y colaborador.
