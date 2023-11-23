@@ -1,7 +1,7 @@
 # proweb_kelvinreyes
 # Evaluacion 1 - Repositorio GitHub
 
-A continuación, se detalla el paso a paso para configurar el repositorio, agregar colaboradores y crear ramas.
+A continuación, se detalla el paso a paso para crear el repositorio, agregar colaboradores y crear ramas.
 
 ## Paso 1: Crear el Repositorio
 
@@ -33,8 +33,10 @@ A continuación, se detalla el paso a paso para configurar el repositorio, agreg
 
 ![Visualizar y crear ramas](https://github.com/Krey22/proweb_kelvinreyes/blob/main/%235.png)
 
+## Paso 4: Empujar ramas 
 
-```bash
+Estos comandos se utilizan para crear y empujar tres ramas principales en tu repositorio Git, es de gran importancia ya que con estos comandos, las ramas sincronizaran con nuestro repositorio online de github y podremos compartir colaboraciones con el equipo y contribuir. Vamos a desglosar lo que hace cada uno de ellos:
+
 git checkout -b main
 git push origin main
 
@@ -43,3 +45,5 @@ git push origin staging
 
 git checkout -b develop
 git push origin develop
+
+![Empujar ramas](https://github.com/Krey22/proweb_kelvinreyes/blob/main/%236.png)
